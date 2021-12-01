@@ -16,3 +16,5 @@ Start the backend server.
 ```bash
 cd server && npm run start
 ```
+
+Visit http://localhost:8000/
